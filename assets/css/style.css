@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #000000;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500px;
+}
+
+.bg-header {
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.desc-section {
+    padding: 5% 5%;
+    padding: 4rem 4rem;
+    font-weight: 300px;
+    text-align: center;
+}
+
+.iguana-imagen {
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    height: 400px;
+}
+
+.iguana-texto {
+    color: #ffffff;
+    width: 49%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: large;
+    font-weight: 300px;
+}
+
+.iguana-1 {
+    width: 500px;
+    border: 10px solid;
+    color: #000000;
+    border-radius: 50px;
+}
+
+.iconos-section {
+    background-color: #1e1a13;
+    text-align: center;
+    padding: 3rem;
+    
+}
+
+.titulo2 {
+    color: #ffffff;
+    text-align: center;
+    font-weight: 300px;
+    display: inline;
+    padding: 2rem;           
+}
+
+.iconos-section ul li {
+    width: 300px;
+    color: #ffffff;
+    font-size: 2rem;
+    list-style: none;
+    display: inline-block;
+    padding-inline: 6rem;
+    font-weight: 300px;
+}
+
+.iconos-section ul li p {
+    font-size: x-large;
+    padding: 1rem 1rem;
+}
+
+.imagenes-iguanas {
+    text-align: center;
+    padding: 3rem;
+}
+
+.imagenes-iguanas img {
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    display: inline;
+}
+
+.iguanax3 {
+    margin: .5em 10px .5em 0;
+    height: 260px;
+    border: 10px solid;
+    color: #000000;
+    border-radius: 50px;
+}
+
+footer {
+    background-color: #1e1a13;
+    text-align: center;
+    padding: 1rem;
+}
+
+footer p {
+    color: #ffffff;
+    font-size: large;
+    font-weight: 300px;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+a:hover {  
+    color: #000000;  
+    background-color: ffffff;  
+    text-decoration: underline;
+}  
